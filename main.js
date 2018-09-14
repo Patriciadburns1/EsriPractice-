@@ -1,7 +1,7 @@
-console.log("this is working"); 
 
 
 
+// Create a 3D map
     require([
       "esri/Map",
       "esri/views/SceneView",
